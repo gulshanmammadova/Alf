@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\bin\Debug\netcoreapp3.1\taskM.exe
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\bin\Debug\netcoreapp3.1\taskM.deps.json
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\bin\Debug\netcoreapp3.1\taskM.runtimeconfig.json
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\bin\Debug\netcoreapp3.1\taskM.runtimeconfig.dev.json
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\bin\Debug\netcoreapp3.1\taskM.dll
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\bin\Debug\netcoreapp3.1\taskM.pdb
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.AssemblyInfo.cs
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.dll
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.pdb
+C:\Users\asus\Desktop\VisualStudio\taskM\taskM\obj\Debug\netcoreapp3.1\taskM.genruntimeconfig.cache
